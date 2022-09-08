@@ -404,7 +404,7 @@ h2 {
     color: #152C5B;
 }
 
-.houses{
+.houses {
     position: absolute;
     width: 263px;
     height: 180px;
@@ -419,6 +419,7 @@ h2 {
     line-height: 36px;
     color: #152C5B;
 }
+
 .container .row {
     position: absolute;
     width: 263px;
@@ -427,7 +428,7 @@ h2 {
     top: 1200px;
 }
 
-.hotels{
+.hotels {
     position: absolute;
     width: 263px;
     height: 180px;
@@ -442,12 +443,13 @@ h2 {
     line-height: 36px;
     color: #152C5B;
 }
-.hotelsroom{
+
+.hotelsroom {
     position: absolute;
     margin-top: 370px;
 }
 
-.kitchen{
+.kitchen {
     position: absolute;
     width: 263px;
     height: 180px;
@@ -462,7 +464,42 @@ h2 {
     line-height: 36px;
     color: #152C5B;
 }
-.apartement{
+
+.apartement {
     position: absolute;
     margin-top: 700px;
+}
+
+.pictures1 {
+    display: flex;
+    position: absolute;
+    left: 310px;
+    top: 2380px;
+}
+
+.happy {
+    display: flex;
+    position: absolute;
+    align-content: center;
+    justify-content: center;
+    left: 730px;
+    top: 2420px;
+    color: #152C5B;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.star{
+    display: flex;
+    position: absolute;
+    align-content: center;
+    justify-content: center;
+    left: 610px;
+    top: 1210px;
+    width: 10px;
+    height: 10px;
 }
